@@ -5,5 +5,6 @@ Hi there 👋
 📫 How to reach me: Linkedin/Teams  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I'm what you might call a "space nerd" 🚀🌌🛰️  
+⚡ Fun fact #2: My beard is nowhere near as long as my profile pic anymore 🧙‍♂️   
   
 My SSW profile: https://ssw.com.au/people/jean-thirion
