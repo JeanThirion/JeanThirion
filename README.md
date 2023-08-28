@@ -9,4 +9,4 @@ Hi there 👋
   
 My SSW profile: https://ssw.com.au/people/jean-thirion
 
-[![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanThirion&theme=dark)](https://github.com/JeanThirion/github-readme-stats)
+[![Jean Thirion's github stats](https://github-readme-stats.vercel.app/api?username=JeanThirion&theme=dark)](https://github.com/JeanThirion/github-readme-stats)
