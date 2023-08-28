@@ -8,3 +8,5 @@ Hi there 👋
 ⚡ Fun fact #2: My beard is nowhere near as long as my profile pic anymore 🧙‍♂️   
   
 My SSW profile: https://ssw.com.au/people/jean-thirion
+
+[![Jean's github stats](https://github-readme-stats.vercel.app/api?username=JeanThirion&theme=dark)](https://github.com/JeanThirion/github-readme-stats)
